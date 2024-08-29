@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/10013608-1d4c-412d-8b11-d2138cdd6d6e)
+
+
 # Discord Activity
 
 This template is used in the [Building An Activity](https://discord.com/developers/docs/activities/building-an-activity) tutorial in the Discord Developer Docs.
