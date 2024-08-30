@@ -1,4 +1,4 @@
-## Discord Activity
+# Discord Activity
 
 데스티니2의 구원의 경계 레이드에 도움을 주는 디스코드 활동 입니다.
 ![image](https://github.com/user-attachments/assets/10013608-1d4c-412d-8b11-d2138cdd6d6e)
